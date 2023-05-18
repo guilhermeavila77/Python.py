@@ -1,0 +1,15 @@
+Objetivo
+	Criar um gerenciador de leitura para auxiliar na rotina e também avaliar a evolução
+
+Como
+	Criando um terminal que seja possivel acessar e inserir informações referentes a rotina de leitura
+
+Funcionalidades
+	Acessar livvros já lidos X
+	Acessar livros em andamento 
+	Acessar historico de leitura como quantidade media de pag/dias
+	Imprimir uma previsão de conclusão
+	Acresentar livvros já lidos X
+	Acresentar livros em andamento
+	
+	
